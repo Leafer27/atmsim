@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ATM", "ATM.pyproj", "{99B3CBBB-27EB-4E88-B4D1-9A96750F03A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B3CBBB-27EB-4E88-B4D1-9A96750F03A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B3CBBB-27EB-4E88-B4D1-9A96750F03A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60899448-613E-4B23-9B0E-6CD4F250B9B3}
+	EndGlobalSection
+EndGlobal
